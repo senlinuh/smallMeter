@@ -1,0 +1,12 @@
+{
+    "status": 0,
+    "data": {
+        "id": 12,
+        "username": "admin",
+        "email": "dasd@#232ad.com",
+        "phone": null,
+        "role": 0,
+        "createTime": "12323",
+        "updateTime": "12323"
+    }
+}
